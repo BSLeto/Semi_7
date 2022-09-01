@@ -107,4 +107,4 @@ void SumArrayDiagonal(int[,] sumMatrix)
     }
     Console.WriteLine($"Сумма элементов главной диагонали = {sumResult}");
 }
-SumArrayDiagonal(resultMatrix);
+// SumArrayDiagonal(resultMatrix);
